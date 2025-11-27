@@ -1,0 +1,9 @@
+# OS files
+.DS_Store
+
+# Build artifacts
+grammars/
+work/
+
+# Internal Docs
+EXTENSION_DOCS.md

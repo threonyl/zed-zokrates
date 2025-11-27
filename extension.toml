@@ -1,0 +1,11 @@
+id = "zokrates"
+name = "ZoKrates"
+version = "0.1.0"
+schema_version = 1
+authors = ["threonyl <83128427+threonyl@users.noreply.github.com>"]
+description = "ZoKrates language support for Zed"
+repository = "https://github.com/threonyl/zokrates-zed"
+
+[grammars.zokrates]
+repository = "https://github.com/threonyl/tree-sitter-zokrates"
+rev = "186a68e3e945f7f83450968ee3afa8c95e877db9"
