@@ -28,3 +28,5 @@ To verify the extension queries against the grammar:
 ```bash
 ./verify.sh
 ```
+
+**This extension is not affiliated with the [ZoKrates](https://zokrates.github.io/introduction.html) project.**
